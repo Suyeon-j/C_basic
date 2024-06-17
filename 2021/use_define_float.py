@@ -3,7 +3,7 @@
 int main()
 {
 	// define, float 사용해보기
-  // 도전문제 #03
+	// 도전문제 #03
 	int a = 7, b = 3;
 	float result;
 
