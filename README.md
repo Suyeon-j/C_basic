@@ -1,4 +1,4 @@
-# study_C
+# C_basic
 
 > 2021
 
